@@ -1,0 +1,26 @@
+PODS:
+  - CLTypingLabel (0.4.0)
+  - Kingfisher (5.15.8):
+    - Kingfisher/Core (= 5.15.8)
+  - Kingfisher/Core (5.15.8)
+  - SwiftLint (0.43.1)
+
+DEPENDENCIES:
+  - CLTypingLabel
+  - Kingfisher (~> 5.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - CLTypingLabel
+    - Kingfisher
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  CLTypingLabel: 95a7d1faf7e3d1d952cd11cb0491d17d80c50934
+  Kingfisher: a3c03d702433fa6cfedabb2bddbe076fb8f2e902
+  SwiftLint: 99f82d07b837b942dd563c668de129a03fc3fb52
+
+PODFILE CHECKSUM: 6fc963ef4ddc0bc5988c9b1bff4b816f3b278f80
+
+COCOAPODS: 1.10.1

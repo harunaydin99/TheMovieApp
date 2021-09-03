@@ -1,0 +1,21 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Q2V-rw-mSw"; */
+"Q2V-rw-mSw.text" = "Label";
+
+/* Class = "UILabel"; text = "The Movie App"; ObjectID = "V5j-Me-RSt"; */
+"V5j-Me-RSt.text" = "The Movie App";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "d3Y-NU-tQb"; */
+"d3Y-NU-tQb.normalTitle" = "Tamam";
+
+/* Class = "UILabel"; text = "Favorites"; ObjectID = "jZo-S8-C8D"; */
+"jZo-S8-C8D.text" = "Favoriler";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "p7F-fz-vRW"; */
+"p7F-fz-vRW.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yEj-3H-h7g"; */
+"yEj-3H-h7g.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yhT-5X-N7g"; */
+"yhT-5X-N7g.text" = "Label";

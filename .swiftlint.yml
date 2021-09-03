@@ -1,0 +1,12 @@
+disabled_rules:
+  - vertical_whitespace
+  - trailing_whitespace
+  - force_cast
+  - line_length
+  - unused_optional_binding
+  - comma
+  - unused_closure_parameter
+  - control_statement
+  - identifier_name
+excluded:
+  - Pods
