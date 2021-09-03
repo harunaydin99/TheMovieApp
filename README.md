@@ -33,8 +33,11 @@ This is the screen where the detail of actors are listed
 <img width="328" alt="castdetail" src="https://user-images.githubusercontent.com/56229295/132057309-2940ee87-d2b0-4c3b-84cf-30e4ade9e1f2.png">
 
 
+## Principles
 
-
+- It is written MVC architecture.
+- Added swiftLint for good coding.
+- Integrated Kingfisher for downloading and caching images.
 
 
 
